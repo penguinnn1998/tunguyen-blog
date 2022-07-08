@@ -1,16 +1,12 @@
 ---
-name: Tails Azimuth
+name: Tu Nguyen
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
+occupation: UX/UI Designer
+company:
+email: nguyentu98hau@gmail.com
 twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+behance: https://www.behance.net/tnguyn207
+linkedin: https://www.linkedin.com/
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
-
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Chào các bạn, Tôi là Tú một UX/UI designer đã có một tý tẹo kinh nghiệm làm nghề, blog này được sinh ra với mong muốn tâm sự và chia với các bạn về chuyện đời, chuyện nghề thậm chí là những câu chuyện ngoài lề không liên quan gì đến UX/UI cả. Mong các bạn sẽ học được nhiều thứ khi đọc blog và ủng hộ tôi.
